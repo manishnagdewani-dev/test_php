@@ -1,0 +1,7 @@
+dist: focal
+language: php
+php:
+  - 8.2.13
+  - 8.2.14
+install: true
+script: true

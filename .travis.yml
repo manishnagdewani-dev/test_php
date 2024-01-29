@@ -2,5 +2,8 @@ dist: focal
 language: php
 php:
   - 8.1.27
+  - 8.2.13
+  - 8.2.15
+  - 8.3.2
 install: true
 script: true
